@@ -5,15 +5,14 @@ I turn raw data into decisions that matter.<br>Final-year Computer Science & Eng
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=googlechrome&logoColor=white)](https://data-om-moryani.base44.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-moryani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ommoryani@icloud.com) 
 
 # 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=plastic&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=plastic&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=plastic&logo=databricks&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-%23217346.svg?style=plastic&logo=microsoftexcel&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=plastic&logo=microsoft-azure&logoColor=white&v=1) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=plastic&logo=python&logoColor=white&v=1) ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=plastic&logo=apache-spark&logoColor=white&v=1) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white&v=1) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&v=1) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black&v=1) ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=plastic&logo=databricks&logoColor=white&v=1) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white&v=1) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white&v=1) ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-%23217346.svg?style=plastic&logo=microsoft-excel&logoColor=white&v=1) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white&v=1)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ommoryani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ommoryani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ommoryani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies & Achievements
 ![](https://github-profile-trophy.vercel.app/?username=ommoryani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
